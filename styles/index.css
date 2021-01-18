@@ -30,7 +30,11 @@ p {
     margin-right: 470px;
     margin-left: 10px;
 }
-
+/* FOOTER */
+footer {
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
 /* PROFILBILD */
 img[src^="images/Elsie-på-kälken.jpg"] {
     border-radius: 50%;
@@ -55,3 +59,4 @@ a:link {
   a:active {
     color: #987654;
   }
+
