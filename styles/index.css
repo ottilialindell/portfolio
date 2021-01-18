@@ -1,14 +1,14 @@
 /* BODY */
 body {
-    background-color:rgb(244, 244, 232)
+    background-color:rgb(244, 244, 232);
 }
 
 /* HEADER */
 h1 {
-    color: rgb(207, 185, 151)
-    font-size; 80px;
+    color: rgb(207, 185, 151);
+    font-size: 80px;
     font-weight: 300;
-    text-align; center;
+    text-align: center;
     font-family: serif;
 
 
@@ -16,7 +16,7 @@ h1 {
 
 /* RUBRIKER */
 h4 {
-    color: rgb(207, 185, 151)
+    color: rgb(207, 185, 151);
 
 }
 
