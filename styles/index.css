@@ -20,7 +20,9 @@ h4 {
     font-size: 30px;
     font-weight: 600;
     font-style: italic;
-    font-family: Helvetica
+    font-family: Helvetica;
+    margin-left: 10px;
+
     
 
 
@@ -29,6 +31,32 @@ h4 {
 /* TEXT */
 p {
     color: #987654;
-    font-family: Helvetica
-
+    font-family: Helvetica;
+    margin-right: 470px;
+    margin-left: 10px;
 }
+
+/* PROFILBILD */
+img[src^="images/Elsie-på-kälken.jpg"] {
+    border-radius: 50%;
+}
+
+/* LÄNKAR */
+a:link {
+    color: #987654;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(207, 185, 151);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #987654;
+  }
+  
+  /* selected link */
+  a:active {
+    color: #987654;
+  }
